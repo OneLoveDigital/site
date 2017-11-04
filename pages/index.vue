@@ -30,7 +30,7 @@
   font-weight: normal;
 }
 .email-link {
-  display: block;
+  display: inline-block;
   margin-top: 25px;
   font-size: 16px;
   color: #e32559;
