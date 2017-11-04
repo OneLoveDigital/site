@@ -2,8 +2,9 @@
   <div>
     <nuxt/>
   </div>
-</template>
 
+</template>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
 <style>
 .container
 {
