@@ -4,7 +4,6 @@
   </div>
 
 </template>
-<script src="https://use.typekit.net/fdq7zge.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <style>
 .container
