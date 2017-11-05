@@ -21,9 +21,6 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }
-    ],
-    script: [
-      { src: 'https://use.typekit.net/fdq7zge.js' }
     ]
   },
   css: ['~assets/css/main.css'],
