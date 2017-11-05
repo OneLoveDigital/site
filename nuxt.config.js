@@ -14,7 +14,7 @@ module.exports = {
       { name: 'og:url', content: 'https://www.onelove.digital' },
       { name: 'og:type', content: 'website' },
       { name: 'og:title', content: 'One Love Digital' },
-      { name: 'og:image', content: 'https://www.onelove.digital/social.jpg' },
+      { name: 'og:image', content: 'https://www.onelove.digital/social-share.jpg' },
       { name: 'og:description', content: 'We are a digital agency working with non-profits to drive social change.' },
       { name: 'og:site_name', content: 'Onelove Digital' },
       { name: 'og:locale', content: 'en_US' }
